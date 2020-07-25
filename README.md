@@ -7,6 +7,11 @@ Github Stats | Top Langs
 [![Saif's github stats](https://github-readme-stats.vercel.app/api?username=sksaifuddin&show_icons=true&theme=radical)](https://github.com/sksaifuddin/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksaifuddin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 <!--
 **sksaifuddin/sksaifuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
