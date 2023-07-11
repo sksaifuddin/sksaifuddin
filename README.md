@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Github Stats | Top Langs
--------------|----------
-[![Saif's github stats](https://github-readme-stats.vercel.app/api?username=sksaifuddin&show_icons=true&theme=radical)](https://github.com/sksaifuddin/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksaifuddin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ Top Langs
+----------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sksaifuddin&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center"> 
