@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=435&lines=Hi+there!+I+am+Shaik+Saifuddin)](https://git.io/typing-svg)
 
-I'm a passionate Full Stack Developer based in Canada, specializing in building scalable and efficient cloud-based systems.
+I'm a Full Stack Developer based in Canada, specializing in building scalable and efficient cloud-based systems.
 
 ## 🛠️ Skills
 
